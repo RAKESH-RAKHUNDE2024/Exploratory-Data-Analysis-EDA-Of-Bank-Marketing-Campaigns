@@ -1,4 +1,4 @@
-## Project Title:- Exploratory Data Analysis Of Bank Marketing Campaigns
+## Project Title:- Exploratory Data Analysis (EDA) Of Bank Marketing Campaigns
 
 ## 📊 Project Summary
 
